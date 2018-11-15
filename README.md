@@ -85,6 +85,19 @@ d'alerte affichant "nombreUn n'est pas égal à nombreDeux"
 
 - Créer une boucle qui s'éxécute de 0 à 9, dans la boucle , utiliser console.log() pour afficher l'index de la boucle
 
+- Créer un tableau appelé fruits qui contiendra les éléments suivant : "pomme","banane","poire"
+  Créer une boucle qui parcourt toutes les entrées de ce tableau et afficher l'index en utilisant console.log à
+  l'intérieur de la boucle
+
+- Créer une boucle qui s'éxécute tant que la variable i est inférieure à 10 ( utiliser l'instruction while )
+
+- Créer une boucle qui s'éxécute tant que la variable i est inférieure à 10 mais qui incrémente i de 2 à chaque itération
+ ( utiliser un while )
+
+- Créer une boucle qui s'éxécute de 0 à 10, dans la boucle quand la valeur d'index est égale à 5, afficher une boite
+d'alerte affichant le message de votre choix.
+
+
 
 
 
